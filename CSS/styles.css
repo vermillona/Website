@@ -1,0 +1,156 @@
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+h1 {
+  color: #B4AEE8;
+  margin: 50px auto 0 auto;
+  font-family: 'Montez', cursive;
+  font-size: 7em;
+}
+
+h2 {
+  color: #745C97;
+  font-size: 3rem;
+  padding: 10px;
+}
+
+h3 {
+  color: #5A3D5C;
+  font-size: 2.5rem;
+}
+
+p {
+  color: #745C97;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: normal;
+  font-size: 2rem;
+  margin: 50px auto 100px auto
+}
+
+a {
+  color: #AF8BAF;
+  font-family: 'Cormorant Garamond', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F7CCAD;
+}
+
+hr {
+  border: dotted #745C97;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #FAE3D9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #B4AEE8;
+  color: #6B03C1;
+padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+.photo {
+  border-radius: 50%;
+  padding: 30px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.ship {
+  border-radius: 50%;
+  float: left;
+  padding: 20px;
+}
+
+.computer {
+  border-radius: 50%;
+  float: left;
+  padding: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #582F95;
+  font-family: Georgia;
+  font-size: 21px;
+  font-weight: 200;
+  padding: 39px;
+  background-color: #B4AEE8;
+  -webkit-box-shadow: 1px 1px 20px 0 #FFFFFF;
+  -moz-box-shadow: 1px 1px 20px 0 #FFFFFF;
+  box-shadow: 1px 1px 20px 0 #FFFFFF;
+  text-shadow: 1px 1px 20px #000000;
+  border: dotted #6B03C1 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #F7CCAD;
+  border: dotted #F5924A 2px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.linkedin {
+  font-size:23px;
+  margin-top: 3rem;
+  color: #6B03C1;
+}
+
+.website {
+  font-size:23px;
+  margin-top: 3rem;
+  color: #6B03C1;
+}
+
+.end {
+  color: white;
+  font-size: 1rem;
+}
+
+.contact-me: {
+  width: 40%;
+}
